@@ -1,0 +1,20 @@
+
+.title{
+    font-size: 45px;
+    font-family: 'Lato';
+    font-weight: 500;
+    color: teal;
+}
+.watch-info{
+    word-wrap: break-word;
+    text-align: justify;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.577);
+}
+
+
+@media only screen and (max-width: 600px) {
+    .title{
+        font-size: 27px;
+    }
+  }

@@ -1,0 +1,19 @@
+.navbar{
+    background-color: rgba(240, 128, 128, 0.355);
+    padding: 10px 0;
+}
+.navbar a{
+    margin-left: 50px;
+    font-size: 21px;
+    font-family: 'Teko';
+    color: brown;
+    
+}
+
+@media only screen and (max-width: 600px) {
+   .navbar a{
+       margin-left: 18px;
+       font-size: 16px;
+       font-family: 'Lato';
+   }
+  }
