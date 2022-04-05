@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const HomeReview = ({review}) => {
     const {name, img, comment, ratings} = review;  
     return (
-        <div className='review-conatiner my-16 mx-8 md:mx-96 py-4'>
+        <div className='review-container my-16 mx-8 md:mx-96 py-4'>
         <div className='image-name-div'>
         <img className='review-image' src={img} alt="" />
         <p className=' text-lg md:text-2xl ml-2'>{name}</p>

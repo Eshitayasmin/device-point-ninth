@@ -1,19 +1,38 @@
 .navbar{
     background-color: rgba(240, 128, 128, 0.355);
-    padding: 10px 0;
+    padding: 15px 0;
 }
-.navbar a{
+.link{
     margin-left: 50px;
     font-size: 21px;
     font-family: 'Teko';
-    color: brown;
+    color: black;
+    
+}
+
+.active-link{
+    color: blue;
+    font-family: 'Teko';
+    font-size: 21px;
+    margin-left: 50px;
+   
     
 }
 
 @media only screen and (max-width: 600px) {
-   .navbar a{
+    .navbar{
+        padding: 10px 0;
+    }
+   .link{
        margin-left: 18px;
        font-size: 16px;
        font-family: 'Lato';
    }
+   .active-link{
+     margin-left: 18px;
+     font-size: 16px;
+     font-family: 'Lato';
+     
+   }
+
   }

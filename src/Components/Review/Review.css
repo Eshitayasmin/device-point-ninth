@@ -1,7 +1,7 @@
-.review-conatiner{
+.review-container{
   border: 1px solid lightgreen;
   border-radius: 15px;
-  background-color: beige;
+  background-color: rgba(250, 240, 230, 0.45);
 }
 .review-image{
     width: 80px;

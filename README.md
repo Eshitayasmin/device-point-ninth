@@ -19,14 +19,16 @@ Then go to the app.js and import Routes and Route from react-router-dom.
 
 After import FontAwsomeIcon use icons in my website.
 
+### 3.React Ratings
+#npm install --save react-rating
+#import Rating from 'react-rating';
 
-### 3.React Recharts
+### 4.React Recharts
 #install recharts- npm install recharts --force
 
-
-### 4.Deployment
+### 5.Deployment
 #npm run build
-Created a build folder in public folder. Then  deploy the build folder in Netlify.
+Created a production build folder in public folder. Then  deploy the build folder in Netlify.
 
 
 
