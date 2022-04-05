@@ -1,7 +1,7 @@
-### Device Point
+## Device Point
 
-### Live Site Link
-### (https://ar-ninth-assignment.netlify.app/).
+## Live Site Link
+## https://ar-ninth-assignment.netlify.app/
 
 ### 1.React Router
 #install react-router - npm install react-router-dom@6
@@ -25,7 +25,7 @@ After import FontAwsomeIcon use icons in my website.
 
 
 ### 4.Deployment
-## npm run build
+#npm run build
 Created a build folder in public folder. Then  deploy the build folder in Netlify.
 
 
