@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "James Brian",
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "comment": "Outstanding value for the money!",
+        "ratings": "4.5"
+    },
+    {
+        "id": "2",
+        "name": "David Massel",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article5423743.ece/ALTERNATES/s615b/MOST-BEAUTIFUL-FACES.jpg",
+        "comment": " Great Watch - Great Investment",
+        "ratings": "4"
+    },
+    {
+        "id": "3",
+        "name": "Dom Miliano",
+        "img": "https://images.generated.photos/uKjxbHEufqSoLeZXqc9kCzDFhbx_2r555M_Zq3FGmrs/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTQ2NTc2LmpwZw.jpg",
+        "comment": "Dependable like a best friend",
+        "ratings": "5"
+    },
+    {
+        "id": "4",
+        "name": "B. Timmins",
+        "img": "https://images.generated.photos/uOaSi7oZeoHb4L6i_jGWvkbrQltVemUxaI6SJ5lWE7s/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTA3NDgwLmpwZw.jpg",
+        "comment": "Extremely happy with the product!",
+        "ratings": "4.5"
+    },
+    
+    {
+        "id": "5",
+        "name": "Alex Barnad",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LmG47_W3RM0QBVGI23-vodL_oOOJxLIBrg&usqp=CAU",
+        "comment": " Yes, over-rated but a classic!",
+        "ratings": "3.5"
+    },
+    
+    {
+        "id": "6",
+        "name": "Bryan Jerutis",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/21d5ftaVLdL._CR0,0,100,100_UX110_.gif",
+        "comment": "Best watch I ever had",
+        "ratings": "5"
+    }
+    
+]
