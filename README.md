@@ -1,32 +1,30 @@
-#Device Point
+### Device Point
 
-Live Site Link: (https://ar-ninth-assignment.netlify.app/).
+### Live Site Link
+### (https://ar-ninth-assignment.netlify.app/).
 
-#1. npm install react-router-dom@6
+### 1.React Router
+#install react-router - npm install react-router-dom@6
 
 After install react-router-dom, go index.js and import BrowserRouter from react-router-dom. Then wrap the app with the BrowserRouter.
 Then go to the app.js and import Routes and Route from react-router-dom.
 
 
-#2.FontAwesomeIcon
-## npm i --save @fortawesome/fontawesome-svg-core
-## npm install --save @fortawesome/free-solid-svg-icons
-## npm install --save @fortawesome/react-fontawesome
+### 2.FontAwesomeIcon
+#npm i --save @fortawesome/fontawesome-svg-core
+#npm install --save @fortawesome/free-solid-svg-icons
+#npm install --save @fortawesome/react-fontawesome
 
-After install FontAwsomeIcon use icons in my site.
+#import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-
-#3.
-
+After import FontAwsomeIcon use icons in my website.
 
 
-### Code Splitting
+### 3.React Recharts
+#install recharts- npm install recharts --force
 
 
-
-
-
-#4.Deployment
+### 4.Deployment
 ## npm run build
 Created a build folder in public folder. Then  deploy the build folder in Netlify.
 
