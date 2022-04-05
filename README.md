@@ -31,7 +31,7 @@
 
 ### 5.Deployment
 * npm run build
-- Created a production build folder in public folder. 
+- Created a production build folder. 
 - Then  deploy the build folder in Netlify.
 
 
