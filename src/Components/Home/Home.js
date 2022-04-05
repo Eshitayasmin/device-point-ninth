@@ -15,7 +15,7 @@ const Home = () => {
                 
                 <img className='mt-12 image' src="https://images-na.ssl-images-amazon.com/images/I/61G0tSHf6PL._AC._SR360,460.jpg" alt="" />
                 
-              <div className='ml-2 md:ml-16 mt-12'>
+                <div className='ml-2 md:ml-16 mt-12'>
                     <h1 className='title'>Your Next Watch</h1>
                     <h1 className='title mb-4'>Your Best Watch</h1>
                     <p className='text-lg md:text-2xl mr-8 md:mr-0 md:ml-36 text-purple-600'>Rolex 126710BKBLSO GMT-Master II Watch</p>
@@ -24,7 +24,6 @@ const Home = () => {
 
                     <button className='bg-pink-300 p-2 md:p-3 rounded-lg text-md md:text-lg mr-12 md:mr-52'>Live Demo</button>
                 </div>
-
             </div>
 
             <div>
