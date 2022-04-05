@@ -3,6 +3,8 @@
 ## Live site link
 ### https://ar-ninth-assignment.netlify.app/
 
+<hr>
+
 ### 1.React Router
 * install react-router - npm install react-router-dom@6
 
@@ -18,7 +20,7 @@
 
 * import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-- After import FontAwsomeIcon use icons in my website.
+* After import FontAwsomeIcon use icons in my website.
 
 ### 3.React Ratings
 * npm install --save react-rating
